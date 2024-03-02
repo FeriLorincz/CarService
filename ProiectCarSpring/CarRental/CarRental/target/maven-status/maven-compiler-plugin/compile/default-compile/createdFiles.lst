@@ -1,0 +1,10 @@
+models\Combustibil.class
+modelsDAO\CarDAO.class
+models\BaseEntityOrder.class
+models\Car.class
+models\BaseEntity.class
+models\Client.class
+modelsDAO\ClientDAO.class
+modelsDAO\OrderDAO.class
+models\Order.class
+repositories\ClientRepository.class
